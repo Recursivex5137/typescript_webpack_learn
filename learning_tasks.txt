@@ -1,0 +1,61 @@
+
+
+// TODO: review webpack concepts 10/18/18
+// TODO: review webpack concept : Entry:  -explain different ways of doing entry code -why can you do the different ways of doing the entry
+// TODO: review webpack concept : Flow of Webpack:
+// TODO: review webpack concept : Modules: -what it is -what can it consists of -how do they work -how do they resolve
+// TODO: review webpack concept : Dependancy Graph: -what is it -what does it do
+// TODO: review webpack concept : Webpack App:  Webpack Runtime: -what does it do, Webpack Manifest: -what does it consist of-what is its purpose
+// TODO: review webpack concept : HotModuleReplacement: -what does it do -how does it do it -why does it need extra loader for additional functionality
+// TODO: review webpack concept : Plugins: -what is their purpose -how do they work -what do they consist of
+// TODO: review webpack concept : Loaders: -what is their purpose -how do they work -what do they consist of
+// TODO: review webpack concept : Output:   -explain different ways of doing code -why can you do it in different ways
+// TODO: Investigate new webpack concept : Aliases
+// TODO: Investigate new webpack concept : Module Resolution
+// TODO: Investigate new webpack concept : Modes
+// TODO: Investigate new webpack concept : Targets
+// TODO: Investigate new webpack concept : Configuration 
+// TODO: Investigate new webpack concept : Configuration Examples
+
+
+
+
+
+// TODO: Prioritize order of Importance
+// TODO: Investigate new Typescript concept : Basic Types
+// TODO: Investigate new Typescript concept : Variable Declarations
+// TODO: Investigate new Typescript concept : Interfaces
+// TODO: Investigate new Typescript concept : Classes
+// TODO: Investigate new Typescript concept : Functions
+// TODO: Investigate new Typescript concept : Generics
+// TODO: Investigate new Typescript concept : Enums
+// TODO: Investigate new Typescript concept : Type Inference
+// TODO: Investigate new Typescript concept : Type Compatibility
+// TODO: Investigate new Typescript concept : Advanced Types
+// TODO: Investigate new Typescript concept : Symbols
+// TODO: Investigate new Typescript concept : Iterators and Generators
+// TODO: Investigate new Typescript concept : Modules
+// TODO: Investigate new Typescript concept : Namespaces
+// TODO: Investigate new Typescript concept : Namespaces and Modules
+// TODO: Investigate new Typescript concept : Module Resolution
+// TODO: Investigate new Typescript concept : Declaration Merging
+// TODO: Investigate new Typescript concept : JSX
+// TODO: Investigate new Typescript concept : Decorators
+// TODO: Investigate new Typescript concept : Mixins
+// TODO: Investigate new Typescript concept : Triple-Slash Directives
+// TODO: Investigate new Typescript concept : Type Checking Javascript Files
+
+
+// TODO: Investigate new Typescript concept : Project Configuration
+// TODO: Investigate new Typescript concept : tsconfig.json
+// TODO: Investigate new Typescript concept : tsconfig.json examples
+// TODO: Investigate new Typescript concept : integrating ts into webpack 
+// TODO: Investigate new Typescript concept : integrating ts into webpack and babel
+// TODO: Investigate new Typescript concept : Declaration Files
+// TODO: Investigate new Typescript concept : Introduction
+// TODO: Investigate new Typescript concept : Library Structures
+// TODO: Investigate new Typescript concept : By Example
+// TODO: Investigate new Typescript concept : Do's and Don'ts
+// TODO: Investigate new Typescript concept : Deep Dive
+
+
